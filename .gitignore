@@ -104,5 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # sagemaker notbook
-./train/module/
-./predict/1/
+/train/module/
+/train/pretrained_models/
+/predict/1/
+/predict/*.tar.gz
