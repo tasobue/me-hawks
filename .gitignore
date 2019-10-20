@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# sagemaker notbook
+./train/module/
+./predict/1/
